@@ -1,2 +1,0 @@
-It contains the codes of c which i am using during learning C
-testing
